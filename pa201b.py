@@ -1,3 +1,4 @@
+# Conway B3S23
 numF, numC, numGeneraciones = 5, 5, 4
 D = [[False]*numC for _ in range(numF)]
 D[1][2] = D[2][2] = D[3][2] = True
